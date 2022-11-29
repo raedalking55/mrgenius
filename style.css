@@ -1,0 +1,38 @@
+html, body{
+	height: 100%;
+	width: 100%;
+  background: url(wall.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+	color: #804515;
+	text-transform: uppercase;
+}
+.btn-xl{
+	background-color: #AA6C39;
+	border-color: #AA6C39;
+	padding: 1rem 2rem;
+	text-transform: uppercase;
+	border-radius: 30px;
+	font-weight: 300;
+}
+.btn:hover{
+	background-color: #AA6C39;
+	border-color: #AA6C39;
+	border-width: 3px;
+
+}
+hr{
+	border-width: 5px;
+	border-color: #552600;
+	max-width: 70px;
+}
+.buffer{
+	height: 9rem;
+}
+.container{
+	margin-top: 200px;
+}
